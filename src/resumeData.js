@@ -9,7 +9,7 @@ let resumeData = {
     "socialLinks": [
         {
             "name": "linkedin",
-            "url": "https://www.linkedin.com",
+            "url": "https://www.linkedin.com/in/adrian-pinon-a9323282/",
             "className": "fa fa - linkedin"
         },
         {
@@ -49,8 +49,8 @@ let resumeData = {
         {
             "CompanyName": "Some Company",
             "specialization": "Some specialization",
-            "MonthOfLeaving": "Jan",
-            "YearOfLeaving": "2018",
+            "MonthOfLeaving": "",
+            "YearOfLeaving": "",
             "Achievements": "Some Achievements"
         }
     ],
@@ -69,17 +69,17 @@ let resumeData = {
     "portfolio": [
         {
             "name": "project1",
-            "description": "mobileapp",
+            "description": "Marvel Card",
             "imgurl": "images / portfolio / phone.jpg"
         },
         {
             "name": "project2",
-            "description": "mobileapp",
+            "description": "Hidden Gems",
             "imgurl": "images / portfolio / project.jpg"
         },
         {
             "name": "project3",
-            "description": "mobileapp",
+            "description": "Art Store",
             "imgurl": "images / portfolio / project2.png"
         }
     ]
